@@ -1,0 +1,33 @@
+[0.060s] Invoking command in '/home/anthonyubuntu/Desktop/inmind/session7/Anthony-Moundalak-ROS2-Assignment-Turtlebot3-Session7/ros2_ws/build/my_interface': /usr/bin/cmake /home/anthonyubuntu/Desktop/inmind/session7/Anthony-Moundalak-ROS2-Assignment-Turtlebot3-Session7/ros2_ws/src/my_interface -DCMAKE_INSTALL_PREFIX=/home/anthonyubuntu/Desktop/inmind/session7/Anthony-Moundalak-ROS2-Assignment-Turtlebot3-Session7/ros2_ws/install/my_interface
+[1.223s] -- The C compiler identification is GNU 11.4.0
+[1.859s] -- The CXX compiler identification is GNU 11.4.0
+[1.907s] -- Detecting C compiler ABI info
+[2.096s] -- Detecting C compiler ABI info - done
+[2.104s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.105s] -- Detecting C compile features
+[2.124s] -- Detecting C compile features - done
+[2.135s] -- Detecting CXX compiler ABI info
+[2.242s] -- Detecting CXX compiler ABI info - done
+[2.251s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.252s] -- Detecting CXX compile features
+[2.253s] -- Detecting CXX compile features - done
+[2.358s] [31mCMake Error at CMakeLists.txt:9 (find_package):
+[2.358s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[2.358s]   has asked CMake to find a package configuration file provided by
+[2.358s]   "ament_cmake", but CMake did not find one.
+[2.358s] 
+[2.358s]   Could not find a package configuration file provided by "ament_cmake" with
+[2.358s]   any of the following names:
+[2.359s] 
+[2.359s]     ament_cmakeConfig.cmake
+[2.359s]     ament_cmake-config.cmake
+[2.359s] 
+[2.359s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[2.359s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[2.359s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[2.359s]   has been installed.
+[2.359s] 
+[2.359s] [0m
+[2.359s] -- Configuring incomplete, errors occurred!
+[2.359s] See also "/home/anthonyubuntu/Desktop/inmind/session7/Anthony-Moundalak-ROS2-Assignment-Turtlebot3-Session7/ros2_ws/build/my_interface/CMakeFiles/CMakeOutput.log".
+[2.362s] Invoked command in '/home/anthonyubuntu/Desktop/inmind/session7/Anthony-Moundalak-ROS2-Assignment-Turtlebot3-Session7/ros2_ws/build/my_interface' returned '1': /usr/bin/cmake /home/anthonyubuntu/Desktop/inmind/session7/Anthony-Moundalak-ROS2-Assignment-Turtlebot3-Session7/ros2_ws/src/my_interface -DCMAKE_INSTALL_PREFIX=/home/anthonyubuntu/Desktop/inmind/session7/Anthony-Moundalak-ROS2-Assignment-Turtlebot3-Session7/ros2_ws/install/my_interface

@@ -1,0 +1,12 @@
+# MeasureLapTime.action
+# Goal definition
+---
+
+# Result definition
+float32 total_time
+
+---
+
+# Feedback definition
+float32 elapsed_time
+
